@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Projects"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+# Thesis - **Contested Ball Player Ratings** 
