@@ -1,25 +1,25 @@
 ---
-title: "JacobEllett"
+title: "Jacob Ellett"
 about: 
   template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jacob-ellett-0165a917b/ 
 ---
 
 # About
 
 Data Analyst
 
-# Education
+# Education 
 
-**Master of Sport Analytics -** La Trobe University
+**La Trobe University \|** Master of Sport Analytics \| 2022 - 2023
 
-**Bachelor of Sport and Exercise Science -** La Trobe University
+**La Trobe University \|** Bachelor of Sport and Exercise Science \| 2019 - 2021
 
 # Experience 
 
-**Performance Analysis Internship -** Collingwood Football Club
+**Collingwood Football Club \|** Performance Analysis Intern \| 2023 Season
 
-**Apprentice Strength and Conditioning Coach -** Ace Performance
-
-```{r}
-1 + 1
-```
+**Ace Performance \|** Strength and Conditioning Coach Apprentice \| 2021
